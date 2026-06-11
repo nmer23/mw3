@@ -1,0 +1,9 @@
+Package: com.nmer23.mwengine
+Name: MWEngine
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: MWEngine Tweak for 8 Ball Pool
+Maintainer: nmer23
+Author: nmer23
+Section: Tweaks
